@@ -1,6 +1,6 @@
 # Hello, I am @jessemayer!
 
-I am a passionate front-end software developer with expertise in various programming languages and UI/UX technologies. With a career background as a chef🍳, I bring a unique blend of creativity and problem-solving skills to the table. Currently, I am actively seeking my first developer role to further enhance my skills and contribute to exciting projects.
+I am a passionate front-end software developer with expertise in various programming languages and UI/UX technologies. With a career background as a 🍳 chef, I bring a unique blend of creativity and problem-solving skills to the table. Currently, I am actively seeking my first developer role to further enhance my skills and contribute to exciting projects.
 
 ## Skills
 - Programming Languages: JavaScript, HTML, CSS
