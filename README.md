@@ -9,12 +9,11 @@ I am a passionate front-end software developer with expertise in various program
 - Version Control: Git, GitHub
 
 ## Projects
-Here are some noteworthy projects I've worked on:
 
-1. Project 1:📰 [News Site](https://github.com/jessemayer/News_Site)
+1. 📰 [News Site](https://github.com/jessemayer/News_Site)
    - I have developed a news site project that utilizes a News API to showcase up-to-date news stories from various news providers.
 
-2. Project 2: 🎥 [Movie Site](link-to-project)
+2. 🎥 [Movie Site](link-to-project)
    - In this project, I have created a React.js movie app utilizing the IMDB API.
 
 Feel free to explore my repositories for more projects and code samples.
@@ -22,9 +21,9 @@ Feel free to explore my repositories for more projects and code samples.
 ## Hobbies
 Apart from coding, I have a diverse set of hobbies that keep me engaged:
 
-<ol style="list-style-type: none;">
+<ul>
 <li>🎿: Even though I am not great at Skiing it feels great to get on top of a mountain.</li>
 <li>🚤 🎣: Spending time on my little Jon Boat on one of Montana many beautiful lakes is always a good time.</li>
 <li>🐕 Playing with Dogs: I enjoy spending quality time with my furry companions.</li>
 <li>👨‍💻 Exploring Front-end Tech: I'm always eager to learn and explore new front-end technologies and frameworks. "Hello World" here I come!</li>
-</ol>
+</ul>
