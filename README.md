@@ -26,7 +26,7 @@ Feel free to explore my repositories for more projects and code samples.
 Apart from coding, I have a diverse set of hobbies that keep me engaged:
 
 - Skiing: I love hitting the slopes and enjoying the thrill of skiing.
-- image.png: Spending time on my little Jon Boat on one of Montana many beautiful lakes is always a good time.
+- 🎣: Spending time on my little Jon Boat on one of Montana many beautiful lakes is always a good time.
 - Playing with Dogs: I enjoy spending quality time with my furry companions.
 - Exploring Front-end Tech: I'm always eager to learn and explore new front-end technologies and frameworks. "Hello World" here I come!
 
