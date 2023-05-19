@@ -1,8 +1,5 @@
 # Hello, I am @jessemayer!
 
-Welcome to my GitHub profile. Here's a brief introduction about me:
-
-## About Me
 I am a passionate front-end software developer with expertise in various programming languages and UI/UX technologies. With a career background as a chef, I bring a unique blend of creativity and problem-solving skills to the table. Currently, I am actively seeking my first developer role to further enhance my skills and contribute to exciting projects.
 
 ## Skills
@@ -25,8 +22,9 @@ Feel free to explore my repositories for more projects and code samples.
 ## Hobbies
 Apart from coding, I have a diverse set of hobbies that keep me engaged:
 
-🎿: Even though I am not great at Skiing it feels great to get on top of a mountain.
-🚤 🎣: Spending time on my little Jon Boat on one of Montana many beautiful lakes is always a good time.
-🐕 Playing with Dogs: I enjoy spending quality time with my furry companions.
-👨‍💻 Exploring Front-end Tech: I'm always eager to learn and explore new front-end technologies and frameworks. "Hello World" here I come!
-
+<ol style="list-style-type: none;">
+<li>🎿: Even though I am not great at Skiing it feels great to get on top of a mountain.</li>
+<li>🚤 🎣: Spending time on my little Jon Boat on one of Montana many beautiful lakes is always a good time.</li>
+<li>🐕 Playing with Dogs: I enjoy spending quality time with my furry companions.</li>
+<li>👨‍💻 Exploring Front-end Tech: I'm always eager to learn and explore new front-end technologies and frameworks. "Hello World" here I come!</li>
+</ol>
