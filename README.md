@@ -13,7 +13,7 @@ I am a passionate front-end software developer with expertise in various program
 1. 📰 [News Site](https://github.com/jessemayer/News_Site)
    - I have developed a news site project that utilizes a News API to showcase up-to-date news stories from various news providers.
 
-2. 🎥 [Movie Site](link-to-project)
+2. 🎥 [Movie Site](https://github.com/jessemayer/movie-app)
    - In this project, I have created a React.js movie app utilizing the IMDB API.
 
 Feel free to explore my repositories for more projects and code samples.
